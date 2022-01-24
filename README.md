@@ -23,8 +23,7 @@ Runs the app in the development mode.
 ## Live Demo of the App 
 
 Click on the following link:
-https://chrisstef.github.io/React-Todo-App/
+<a href="https://chrisstef.github.io/React-Todo-App/" rel="nofollow">Demo</a>
+
 
 Enjoy :)
-
-<a href="http://us.battle.net/en/int?r=hearthstone" rel="nofollow">Blizzard strategy card game Hearthstone</a>
