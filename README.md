@@ -1,4 +1,4 @@
-#  Simple Todo App created using React Hooks
+## Simple Todo App created using React Hooks
 
 
 ## Prerequisitiese
