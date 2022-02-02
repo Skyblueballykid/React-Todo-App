@@ -1,5 +1,12 @@
 ## Todo App created using React Hooks
 
+`Languages`
+```
+- html
+- css
+- javascipt
+- reactjs
+```
 
 ## Prerequisities
 
