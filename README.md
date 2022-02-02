@@ -1,8 +1,7 @@
-## Simple Todo App created using React Hooks
+## Todo App created using React Hooks
 
 
 ## Prerequisities
-
 
 Before you start, make sure you run:
 
