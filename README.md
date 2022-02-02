@@ -1,7 +1,7 @@
 ## Todo App created using React Hooks
 
 
-## Live Demo of the App 
+# Live Demo of the App 
 
 Click on the following link:
 <a href="https://chrisstef.github.io/React-Todo-App/" rel="nofollow">Demo</a>
@@ -10,7 +10,7 @@ Click on the following link:
 Enjoy :)
 
 
-## Languages
+# Languages
 
 ```
 - html
@@ -19,7 +19,7 @@ Enjoy :)
 - reactjs
 ```
 
-## Prerequisities
+# Prerequisities
 
 Before you start, make sure you run:
 
@@ -28,7 +28,7 @@ Before you start, make sure you run:
 Downloads and installs the custom icons which are displayed in our app. 
 
 
-## Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
 
