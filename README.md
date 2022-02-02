@@ -1,6 +1,8 @@
 ## Todo App created using React Hooks
 
-`Languages`
+
+## Languages
+
 ```
 - html
 - css
